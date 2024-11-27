@@ -11,7 +11,7 @@ header {
     font-family: "Fascinate Inline", system-ui;
 }
 
-section{
+.chamada{
     background-color: blue;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -42,7 +42,7 @@ h1 {
     gap: 10px;
   }
 
-  section {
+  .categoria {
     padding-left: 20px;
     padding-right: 20px;
   }
