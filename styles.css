@@ -2,6 +2,7 @@ body{
 background-color: black;
 color: rgb(255, 255, 255);
 margin: 0px;
+margin-bottom: 100px;
 }
 
 header {
@@ -46,7 +47,8 @@ h1 {
   .categoria {
     padding-left: 20px;
     padding-right: 20px;
-  }
+    margin-top: 50px;
+}
 
   
 .categoria-videos img:hover {
